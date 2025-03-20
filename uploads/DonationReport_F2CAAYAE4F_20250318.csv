@@ -1,0 +1,17 @@
+Donations Report,
+"#-------------------------------------------",
+Charity Name,Asian Mental Health Collective
+Charity ID,840-852046622
+Period Ending,Wed 1 Jan 2025 0:00:00
+Currency,JPY
+Payment Method,EFT
+Disbursement ID,F2CAAYAE4F
+Note,Rounding may be applied to some values in this report. Learn more at https://causes.benevity.org/feedback-support
+"#-------------------------------------------",
+
+Company,Project,Donation Date,Donor First Name,Donor Last Name,Email,Address,City,State/Province,Postal Code,Activity,Comment,Transaction ID,Donation Frequency,Currency,Project Remote ID,Source,Reason,Total Donation to be Acknowledged,Match Amount,Cause Support Fee,Merchant Fee,Fee Comment
+Salesforce,Asian Mental Health Collective,2024-12-03T07:33:23Z,Takafumi,Uchino,takafumi.uchino@salesforce.com,Not shared by donor,Not shared by donor,Not shared by donor,330-0835,,,61SYGE7TG1,One Time,JPY,,My Rewards,User Donation,"7,462",0,0,0,
+Totals,,,,,,,,,,,,,,,,,,"7,462",0,0,0
+Total Donations (Gross),"7,462"
+Check Fee,0
+Net Total Payment,"7,462"

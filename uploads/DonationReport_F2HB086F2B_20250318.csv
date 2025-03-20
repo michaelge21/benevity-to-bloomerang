@@ -1,0 +1,17 @@
+Donations Report,
+"#-------------------------------------------",
+Charity Name,Asian Mental Health Collective
+Charity ID,840-852046622
+Period Ending,Wed 1 Jan 2025 0:00:00
+Currency,CAD
+Payment Method,EFT
+Disbursement ID,F2HB086F2B
+Note,Rounding may be applied to some values in this report. Learn more at https://causes.benevity.org/feedback-support
+"#-------------------------------------------",
+
+Company,Project,Donation Date,Donor First Name,Donor Last Name,Email,Address,City,State/Province,Postal Code,Activity,Comment,Transaction ID,Donation Frequency,Currency,Project Remote ID,Source,Reason,Total Donation to be Acknowledged,Match Amount,Cause Support Fee,Merchant Fee,Fee Comment
+Salesforce,Asian Mental Health Collective,2024-12-02T18:59:22Z,Clarissa,Willea,Not shared by donor,Not shared by donor,Not shared by donor,Not shared by donor,M5V2M7,,,61PNP0PTYM,One Time,CAD,,My Rewards,User Donation,18.48,0.00,0.00,0.00,
+Totals,,,,,,,,,,,,,,,,,,18.48,0.00,0.00,0.00
+Total Donations (Gross),18.48
+Check Fee,0.00
+Net Total Payment,18.48
